@@ -1,6 +1,6 @@
 Continuer
 Connexion
 Créer
-A continuación puede encontrar un cuadro de texto para ingresar su correo, después de ingresar su correo, presione continua
-A continuación puede encontrar un cuadro de texto para ingresar su contraseña, después de ingresar su contraseña, presione 
-A continuación puede encontrar un cuadro de texto para ingresar su usuario, después de ingresar su usuario, presione crear
+Ci-dessous, vous pouvez trouver une zone de texte pour entrer votre courrier, après avoir entré votre courrier, appuyez sur Continuer
+Ci-dessous, vous pouvez trouver une zone de texte pour entrer votre mot de passe, après avoir entré votre mot de passe, appuyez sur Continuer
+Ci-dessous, vous pouvez trouver une zone de texte pour entrer votre utilisateur, après avoir entré votre utilisateur, appuyez sur créer
