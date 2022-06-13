@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+.maintenance_text{
+    font-size: 5em;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    background-color: #00000F;
+}
