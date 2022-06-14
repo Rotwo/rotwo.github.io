@@ -290,3 +290,12 @@ a{
     transform: scale(0.95);
    }
    
+   ::-webkit-scrollbar{
+    width: 0.7vw; 
+    background: #999; 
+}
+::-webkit-scrollbar-thumb{
+    background: -webkit-linear-gradient(transparent,#2f4e75); 
+    background: linear-gradient(transparent,#2f4e75); 
+    border-radius: 25px;
+}
